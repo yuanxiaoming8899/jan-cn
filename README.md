@@ -108,7 +108,6 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/janhq/jan/blob/dev/demo.gif" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
             <img data-target="animated-image.replacedImage" alt="演示" class="AnimatedImagePlayer-animatedImage" src="https://github.com/janhq/jan/raw/dev/demo.gif" style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="603"></canvas></span></a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放演示" hidden=""></button>
